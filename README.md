@@ -72,6 +72,12 @@ uid                 [ultimate] Rob Lyon (Github signing key) <rob@ctxswitch.com>
 ssb   rsa4096/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
+To print the public key type: 
+
+```
+gpg --armor --export F0E2C3B4E2BF179D
+```
+
 ### Add the local configuration file
 
 Set up some local environment variables to customize the install.  At a minimum create a `.local` file in the dotfiles directory and include your git config information:
