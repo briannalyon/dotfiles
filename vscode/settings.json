@@ -22,11 +22,11 @@
     // linters are only run when typing has finished and not for every keypress
     "ruby.lintDebounceTime": 500,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Base16 Dark Twilight",
+    "workbench.colorTheme": "Eva Dark",
     "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
     "gitlens.codeLens.enabled": false,
-    "workbench.iconTheme": "kary-notebook-icons",
+    "workbench.iconTheme": "vscode-icons",
     "files.exclude": {
         "**/__pycache__": true,
         "**/*.pyc": true
